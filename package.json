@@ -1,0 +1,20 @@
+{
+  "name": "rest_api_nodejs_unidad4_guarderia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}

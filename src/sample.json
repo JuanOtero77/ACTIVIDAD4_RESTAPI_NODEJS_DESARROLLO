@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "clave": "1234",
+        "nombre": "juan",
+        "correo": "juan123@gmail.com",
+        "rol": "admin"
+    },
+    {
+        "id": "2",
+        "clave": "4321",
+        "nombre": "eugenio",
+        "correo": "eugenio123@gmail.com",
+        "rol": "padre"
+    }
+]
